@@ -2,4 +2,4 @@ Hi there! I am currently at dev branch.
 You will not see this file in main branch until you someone (authorizer) merge it via main branch
 
 Hi there! I am currently at feature branch. 
-  I am adding this line to the feature branch and it will be available in the main branch if no issue found.
+ I am adding this line to the feature branch and it will be available in the main branch if no issue found.
